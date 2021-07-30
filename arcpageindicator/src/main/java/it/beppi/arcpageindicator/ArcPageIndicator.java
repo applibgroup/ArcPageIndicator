@@ -1,6 +1,5 @@
 package it.beppi.arcpageindicator;
 
-import it.beppi.arcpageindicator.util.AttrUtil;
 import ohos.aafwk.ability.Ability;
 import ohos.agp.components.AttrSet;
 import ohos.agp.components.Component;
@@ -10,6 +9,7 @@ import ohos.agp.render.Canvas;
 import ohos.agp.render.Paint;
 import ohos.agp.utils.Color;
 import ohos.app.Context;
+import it.beppi.arcpageindicator.util.AttrUtil;
 
 //Created by Beppi on 30/12/2016.
 

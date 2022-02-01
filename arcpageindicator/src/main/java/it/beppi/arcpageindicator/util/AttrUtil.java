@@ -16,14 +16,14 @@
 
 package it.beppi.arcpageindicator.util;
 
-import it.beppi.arcpageindicator.ArcPageIndicator;
-import java.io.IOException;
-import java.util.Optional;
 import ohos.agp.components.Attr;
 import ohos.agp.components.AttrSet;
 import ohos.app.Context;
 import ohos.global.resource.NotExistException;
 import ohos.global.resource.WrongTypeException;
+import it.beppi.arcpageindicator.ArcPageIndicator;
+import java.io.IOException;
+import java.util.Optional;
 
 /**
  * class for Util functions.

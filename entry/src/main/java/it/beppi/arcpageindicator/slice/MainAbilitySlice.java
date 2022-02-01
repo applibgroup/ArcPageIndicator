@@ -16,16 +16,16 @@
 
 package it.beppi.arcpageindicator.slice;
 
-import it.beppi.arcpageindicator.ArcPageIndicator;
-import it.beppi.arcpageindicator.ResourceTable;
-import it.beppi.arcpageindicator.TestPagerProvider;
-import java.util.ArrayList;
 import ohos.aafwk.ability.AbilitySlice;
 import ohos.aafwk.content.Intent;
 import ohos.agp.components.PageSlider;
 import ohos.eventhandler.EventHandler;
 import ohos.eventhandler.EventRunner;
 import ohos.miscservices.timeutility.Time;
+import it.beppi.arcpageindicator.ArcPageIndicator;
+import it.beppi.arcpageindicator.ResourceTable;
+import it.beppi.arcpageindicator.TestPagerProvider;
+import java.util.ArrayList;
 
 /**
  * MainAbilitySlice Class for testing ArcPageIndicator library.

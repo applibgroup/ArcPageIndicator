@@ -16,8 +16,6 @@
 
 package it.beppi.arcpageindicator;
 
-import java.io.IOException;
-import java.util.List;
 import ohos.agp.colors.RgbColor;
 import ohos.agp.components.Component;
 import ohos.agp.components.ComponentContainer;
@@ -30,6 +28,8 @@ import ohos.agp.utils.TextAlignment;
 import ohos.app.Context;
 import ohos.global.resource.NotExistException;
 import ohos.global.resource.WrongTypeException;
+import java.io.IOException;
+import java.util.List;
 
 /**
  * Custom PageSliderProvider.

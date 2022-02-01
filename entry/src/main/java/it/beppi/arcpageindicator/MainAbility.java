@@ -16,9 +16,9 @@
 
 package it.beppi.arcpageindicator;
 
-import it.beppi.arcpageindicator.slice.MainAbilitySlice;
 import ohos.aafwk.ability.Ability;
 import ohos.aafwk.content.Intent;
+import it.beppi.arcpageindicator.slice.MainAbilitySlice;
 
 /**
  * MainAbility Class.
